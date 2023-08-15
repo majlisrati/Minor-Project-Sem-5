@@ -6,4 +6,4 @@ git push -u origin
 
 
 # Before starting work
-git pul
+git pull
